@@ -87,7 +87,7 @@ div#toolbar>div#toolbar-separator {
 }
 
 div#toolbar>div#toolbar-open {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="#007AFF" stroke-linejoin="bevel" d="M32 16H0m16 16V0"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="%23007AFF" stroke-linejoin="bevel" d="M32 16H0m16 16V0"/></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 2em
@@ -99,42 +99,42 @@ div#toolbar>div#toolbar-open {
 }
 
 div#toolbar>div#toolbar-remove {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33"><path fill="none" stroke="#007AFF" stroke-width="1.454" stroke-linejoin="bevel" d="M32.5.5l-32 32m32 0L.5.5"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33"><path fill="none" stroke="%23007AFF" stroke-width="1.454" stroke-linejoin="bevel" d="M32.5.5l-32 32m32 0L.5.5"/></svg>');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 1.7em
 }
 
 div#toolbar>div#toolbar-start {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#007AFF" d="M0 0l32 16L0 32V0zm1 1.6v28.8L29.8 16 1 1.6z"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="%23007AFF" d="M0 0l32 16L0 32V0zm1 1.6v28.8L29.8 16 1 1.6z"/></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 2em
 }
 
 div#toolbar>div#toolbar-pause {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#007AFF" d="M12.9 0v32h-8V0h8zm-1 1h-6v30h6V1zM27 0v32h-8V0h8zm-1 1h-6v30h6V1z"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="%23007AFF" d="M12.9 0v32h-8V0h8zm-1 1h-6v30h6V1zM27 0v32h-8V0h8zm-1 1h-6v30h6V1z"/></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 2em
 }
 
 div#toolbar>div#toolbar-start-all {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#007AFF"><path d="M0 0l32 16L0 32V0zm1 1.6v28.8L29.8 16 1 1.6z"/><path d="M3.2 5.1L25.5 16 3.2 26.9V5.1zm1 1.6v18.6l19-9.3-19-9.3z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="%23007AFF"><path d="M0 0l32 16L0 32V0zm1 1.6v28.8L29.8 16 1 1.6z"/><path d="M3.2 5.1L25.5 16 3.2 26.9V5.1zm1 1.6v18.6l19-9.3-19-9.3z"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 2em
 }
 
 div#toolbar>div#toolbar-pause-all {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#007AFF"><path d="M11.7 0v32h-8V0h8zm-1 1h-6v30h6V1z"/><path d="M14.1 2v28h-2.8v-1h1.8V3h-1.9V2h2.9zM26 0v32h-8V0h8zm-1 1h-6v30h6V1z"/><path d="M28.3 2v28h-2.8v-1h1.8V3h-1.8V2h2.8z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="%23007AFF"><path d="M11.7 0v32h-8V0h8zm-1 1h-6v30h6V1z"/><path d="M14.1 2v28h-2.8v-1h1.8V3h-1.9V2h2.9zM26 0v32h-8V0h8zm-1 1h-6v30h6V1z"/><path d="M28.3 2v28h-2.8v-1h1.8V3h-1.8V2h2.8z"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 2em
 }
 
 div#toolbar>div#toolbar-inspector {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#007AFF"><path d="M16 0c8.8 0 16 7.2 16 16s-7.2 16-16 16S0 24.8 0 16 7.2 0 16 0zm0 1C7.7 1 1 7.7 1 16s6.7 15 15 15 15-6.7 15-15S24.3 1 16 1z"/><path d="M13.8 12.4v.4c.7 0 1 0 1.1.2.2.2.3.6.3 1.6v5.1c0 1.8-.1 1.9-1.4 2v.3h4.3v-.4c-1.3 0-1.4-.2-1.4-2v-3.9c0-.8.1-2.4.1-3.6l-3 .3zm1.1-3.2c0 .6.5 1.1 1.1 1.1.6 0 1.1-.5 1.1-1.1 0-.6-.5-1.1-1.1-1.1-.6.1-1.1.5-1.1 1.1z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="%23007AFF"><path d="M16 0c8.8 0 16 7.2 16 16s-7.2 16-16 16S0 24.8 0 16 7.2 0 16 0zm0 1C7.7 1 1 7.7 1 16s6.7 15 15 15 15-6.7 15-15S24.3 1 16 1z"/><path d="M13.8 12.4v.4c.7 0 1 0 1.1.2.2.2.3.6.3 1.6v5.1c0 1.8-.1 1.9-1.4 2v.3h4.3v-.4c-1.3 0-1.4-.2-1.4-2v-3.9c0-.8.1-2.4.1-3.6l-3 .3zm1.1-3.2c0 .6.5 1.1 1.1 1.1.6 0 1.1-.5 1.1-1.1 0-.6-.5-1.1-1.1-1.1-.6.1-1.1.5-1.1 1.1z"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 2em;
@@ -410,7 +410,7 @@ ul.torrent_list div.torrent_progress_bar.incomplete.seeding {
 
 .prefs-section #alternative-speed-limits-title {
 	padding-left: 18px;
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="#7B8994" stroke-width=".5" d="M8.4 17.1c.3-3.3 1.9-6.3 4.4-8.3s5.6-2.9 8.6-2.7c3 .3 5.7 1.6 7.6 3.8s2.7 4.9 2.4 7.4c-.2 2.5-1.6 4.9-3.4 6.5-1.9 1.6-4.4 2.3-6.7 2.1-2.3-.2-4.5-1.3-5.9-2.9s-2-3.8-1.9-5.7c.2-2 1.2-3.8 2.6-5 1.5-1.3 3.4-1.7 5.2-1.6 1.8.1 3.5 1 4.6 2.2s1.6 2.9 1.5 4.5c-.1 1.6-1 3-2 3.9-1.2 1-2.6 1.4-4.1 1.3-1.5-.1-2.7-.8-3.6-1.7-.9-.9-1.3-2.2-1.2-3.5.1-1.2.7-2.2 1.6-3 .9-.7 2-1.1 3.2-1 1.1.1 2 .6 2.8 1.4.7.8 1 1.7.9 2.7m-11.4-1.1c-6.2 4-8.3-4.8-13.1.8"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="%237B8994" stroke-width=".5" d="M8.4 17.1c.3-3.3 1.9-6.3 4.4-8.3s5.6-2.9 8.6-2.7c3 .3 5.7 1.6 7.6 3.8s2.7 4.9 2.4 7.4c-.2 2.5-1.6 4.9-3.4 6.5-1.9 1.6-4.4 2.3-6.7 2.1-2.3-.2-4.5-1.3-5.9-2.9s-2-3.8-1.9-5.7c.2-2 1.2-3.8 2.6-5 1.5-1.3 3.4-1.7 5.2-1.6 1.8.1 3.5 1 4.6 2.2s1.6 2.9 1.5 4.5c-.1 1.6-1 3-2 3.9-1.2 1-2.6 1.4-4.1 1.3-1.5-.1-2.7-.8-3.6-1.7-.9-.9-1.3-2.2-1.2-3.5.1-1.2.7-2.2 1.6-3 .9-.7 2-1.1 3.2-1 1.1.1 2 .6 2.8 1.4.7.8 1 1.7.9 2.7m-11.4-1.1c-6.2 4-8.3-4.8-13.1.8"/></svg>');
 	background-repeat: no-repeat;
 	background-size: 15px 15px
 }
@@ -463,7 +463,7 @@ ul.torrent_list div.torrent_progress_bar.incomplete.seeding {
 
 .prefs-section #alternative-speed-limits-title {
 	padding-left: 18px;
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="#7B8994" stroke-width=".5" d="M8.4 17.1c.3-3.3 1.9-6.3 4.4-8.3s5.6-2.9 8.6-2.7c3 .3 5.7 1.6 7.6 3.8s2.7 4.9 2.4 7.4c-.2 2.5-1.6 4.9-3.4 6.5-1.9 1.6-4.4 2.3-6.7 2.1-2.3-.2-4.5-1.3-5.9-2.9s-2-3.8-1.9-5.7c.2-2 1.2-3.8 2.6-5 1.5-1.3 3.4-1.7 5.2-1.6 1.8.1 3.5 1 4.6 2.2s1.6 2.9 1.5 4.5c-.1 1.6-1 3-2 3.9-1.2 1-2.6 1.4-4.1 1.3-1.5-.1-2.7-.8-3.6-1.7-.9-.9-1.3-2.2-1.2-3.5.1-1.2.7-2.2 1.6-3 .9-.7 2-1.1 3.2-1 1.1.1 2 .6 2.8 1.4.7.8 1 1.7.9 2.7m-11.4-1.1c-6.2 4-8.3-4.8-13.1.8"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="%237B8994" stroke-width=".5" d="M8.4 17.1c.3-3.3 1.9-6.3 4.4-8.3s5.6-2.9 8.6-2.7c3 .3 5.7 1.6 7.6 3.8s2.7 4.9 2.4 7.4c-.2 2.5-1.6 4.9-3.4 6.5-1.9 1.6-4.4 2.3-6.7 2.1-2.3-.2-4.5-1.3-5.9-2.9s-2-3.8-1.9-5.7c.2-2 1.2-3.8 2.6-5 1.5-1.3 3.4-1.7 5.2-1.6 1.8.1 3.5 1 4.6 2.2s1.6 2.9 1.5 4.5c-.1 1.6-1 3-2 3.9-1.2 1-2.6 1.4-4.1 1.3-1.5-.1-2.7-.8-3.6-1.7-.9-.9-1.3-2.2-1.2-3.5.1-1.2.7-2.2 1.6-3 .9-.7 2-1.1 3.2-1 1.1.1 2 .6 2.8 1.4.7.8 1 1.7.9 2.7m-11.4-1.1c-6.2 4-8.3-4.8-13.1.8"/></svg>');
 	background-size: 15px 15px;
 	background-repeat: no-repeat
 }
@@ -503,7 +503,7 @@ div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>* {
 div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-info {
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#7B8994"><path d="M16 0c8.8 0 16 7.2 16 16s-7.2 16-16 16S0 24.8 0 16 7.2 0 16 0zm0 1C7.7 1 1 7.7 1 16s6.7 15 15 15 15-6.7 15-15S24.3 1 16 1z"/><path d="M13.8 12.4v.4c.7 0 1 0 1.1.2.2.2.3.6.3 1.6v5.1c0 1.8-.1 1.9-1.4 2v.3h4.3v-.4c-1.3 0-1.4-.2-1.4-2v-3.9c0-.8.1-2.4.1-3.6l-3 .3zm1.1-3.2c0 .6.5 1.1 1.1 1.1.6 0 1.1-.5 1.1-1.1 0-.6-.5-1.1-1.1-1.1-.6.1-1.1.5-1.1 1.1z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="%237B8994"><path d="M16 0c8.8 0 16 7.2 16 16s-7.2 16-16 16S0 24.8 0 16 7.2 0 16 0zm0 1C7.7 1 1 7.7 1 16s6.7 15 15 15 15-6.7 15-15S24.3 1 16 1z"/><path d="M13.8 12.4v.4c.7 0 1 0 1.1.2.2.2.3.6.3 1.6v5.1c0 1.8-.1 1.9-1.4 2v.3h4.3v-.4c-1.3 0-1.4-.2-1.4-2v-3.9c0-.8.1-2.4.1-3.6l-3 .3zm1.1-3.2c0 .6.5 1.1 1.1 1.1.6 0 1.1-.5 1.1-1.1 0-.6-.5-1.1-1.1-1.1-.6.1-1.1.5-1.1 1.1z"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	border-left-width: 1px;
@@ -512,7 +512,7 @@ div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-inf
 }
 
 div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-info:active,div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-info.selected {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#007AFF"><path d="M16 0c8.8 0 16 7.2 16 16s-7.2 16-16 16S0 24.8 0 16 7.2 0 16 0zm0 1C7.7 1 1 7.7 1 16s6.7 15 15 15 15-6.7 15-15S24.3 1 16 1z"/><path d="M13.8 12.4v.4c.7 0 1 0 1.1.2.2.2.3.6.3 1.6v5.1c0 1.8-.1 1.9-1.4 2v.3h4.3v-.4c-1.3 0-1.4-.2-1.4-2v-3.9c0-.8.1-2.4.1-3.6l-3 .3zm1.1-3.2c0 .6.5 1.1 1.1 1.1.6 0 1.1-.5 1.1-1.1 0-.6-.5-1.1-1.1-1.1-.6.1-1.1.5-1.1 1.1z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="%23007AFF"><path d="M16 0c8.8 0 16 7.2 16 16s-7.2 16-16 16S0 24.8 0 16 7.2 0 16 0zm0 1C7.7 1 1 7.7 1 16s6.7 15 15 15 15-6.7 15-15S24.3 1 16 1z"/><path d="M13.8 12.4v.4c.7 0 1 0 1.1.2.2.2.3.6.3 1.6v5.1c0 1.8-.1 1.9-1.4 2v.3h4.3v-.4c-1.3 0-1.4-.2-1.4-2v-3.9c0-.8.1-2.4.1-3.6l-3 .3zm1.1-3.2c0 .6.5 1.1 1.1 1.1.6 0 1.1-.5 1.1-1.1 0-.6-.5-1.1-1.1-1.1-.6.1-1.1.5-1.1 1.1z"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 20px 20px;
@@ -520,7 +520,7 @@ div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-inf
 }
 
 div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-peers {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24.2"><g fill="#7B8994"><path d="M21.6 12.8c5.2 1.3 10 4.6 10.4 10.1-.1 1.2 0 .8-.2 1.3H.2c-.2-.6-.1-.1-.2-1.3.2-5.6 5.4-8.7 10.4-10.1 1.6 2.1 3 2.9 5.6 3.2 2.9-.1 3.8-1.3 5.6-3.2zm.3 1.1c-.2.3-.1.1-.4.4-.3.3-.5.6-.8.8-1.3 1.3-2.6 1.8-4.8 1.9h-.2c-2.4-.2-4.4-1.2-5.9-3-4.8 1.5-8.3 4-9 8.9v.3h29.9v-.3c-.3-4.8-4.3-7.6-8.8-9z"/><path d="M16 0c3.7 0 6.8 3.3 6.8 7.3s-3 7.3-6.8 7.3-6.8-3.3-6.8-7.3S12.3 0 16 0zm0 1c-3.2 0-5.7 2.8-5.7 6.3s2.6 6.3 5.7 6.3 5.7-2.8 5.7-6.3S19.2 1 16 1z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24.2"><g fill="%237B8994"><path d="M21.6 12.8c5.2 1.3 10 4.6 10.4 10.1-.1 1.2 0 .8-.2 1.3H.2c-.2-.6-.1-.1-.2-1.3.2-5.6 5.4-8.7 10.4-10.1 1.6 2.1 3 2.9 5.6 3.2 2.9-.1 3.8-1.3 5.6-3.2zm.3 1.1c-.2.3-.1.1-.4.4-.3.3-.5.6-.8.8-1.3 1.3-2.6 1.8-4.8 1.9h-.2c-2.4-.2-4.4-1.2-5.9-3-4.8 1.5-8.3 4-9 8.9v.3h29.9v-.3c-.3-4.8-4.3-7.6-8.8-9z"/><path d="M16 0c3.7 0 6.8 3.3 6.8 7.3s-3 7.3-6.8 7.3-6.8-3.3-6.8-7.3S12.3 0 16 0zm0 1c-3.2 0-5.7 2.8-5.7 6.3s2.6 6.3 5.7 6.3 5.7-2.8 5.7-6.3S19.2 1 16 1z"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 20px 20px;
@@ -528,7 +528,7 @@ div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-pee
 }
 
 div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-peers:active,div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-peers.selected {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24.2"><g fill="#007AFF"><path d="M21.6 12.8c5.2 1.3 10 4.6 10.4 10.1-.1 1.2 0 .8-.2 1.3H.2c-.2-.6-.1-.1-.2-1.3.2-5.6 5.4-8.7 10.4-10.1 1.6 2.1 3 2.9 5.6 3.2 2.9-.1 3.8-1.3 5.6-3.2zm.3 1.1c-.2.3-.1.1-.4.4-.3.3-.5.6-.8.8-1.3 1.3-2.6 1.8-4.8 1.9h-.2c-2.4-.2-4.4-1.2-5.9-3-4.8 1.5-8.3 4-9 8.9v.3h29.9v-.3c-.3-4.8-4.3-7.6-8.8-9z"/><path d="M16 0c3.7 0 6.8 3.3 6.8 7.3s-3 7.3-6.8 7.3-6.8-3.3-6.8-7.3S12.3 0 16 0zm0 1c-3.2 0-5.7 2.8-5.7 6.3s2.6 6.3 5.7 6.3 5.7-2.8 5.7-6.3S19.2 1 16 1z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24.2"><g fill="%23007AFF"><path d="M21.6 12.8c5.2 1.3 10 4.6 10.4 10.1-.1 1.2 0 .8-.2 1.3H.2c-.2-.6-.1-.1-.2-1.3.2-5.6 5.4-8.7 10.4-10.1 1.6 2.1 3 2.9 5.6 3.2 2.9-.1 3.8-1.3 5.6-3.2zm.3 1.1c-.2.3-.1.1-.4.4-.3.3-.5.6-.8.8-1.3 1.3-2.6 1.8-4.8 1.9h-.2c-2.4-.2-4.4-1.2-5.9-3-4.8 1.5-8.3 4-9 8.9v.3h29.9v-.3c-.3-4.8-4.3-7.6-8.8-9z"/><path d="M16 0c3.7 0 6.8 3.3 6.8 7.3s-3 7.3-6.8 7.3-6.8-3.3-6.8-7.3S12.3 0 16 0zm0 1c-3.2 0-5.7 2.8-5.7 6.3s2.6 6.3 5.7 6.3 5.7-2.8 5.7-6.3S19.2 1 16 1z"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 20px 20px;
@@ -536,7 +536,7 @@ div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-pee
 }
 
 div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-trackers {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 28.4"><g fill="none" stroke="#7B8994" stroke-linejoin="bevel"><path d="M19.9 14.2c0-1.9-1.5-3.4-3.4-3.4s-3.4 1.5-3.4 3.4 1.5 3.4 3.4 3.4 3.4-1.5 3.4-3.4zM13.1 24c-3.7-1.9-6.2-5.5-6.2-9.8s2.5-7.9 6.2-9.8"/><path d="M7.9 28C3.4 24.9.5 19.9.5 14.2.5 8.5 3.4 3.5 7.9.4m12 23.6c3.7-1.9 6.2-5.5 6.2-9.8 0-4.2-2.5-7.9-6.2-9.8"/><path d="M25.1 28c4.5-3.1 7.4-8.1 7.4-13.8 0-5.7-2.9-10.7-7.4-13.8"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 28.4"><g fill="none" stroke="%237B8994" stroke-linejoin="bevel"><path d="M19.9 14.2c0-1.9-1.5-3.4-3.4-3.4s-3.4 1.5-3.4 3.4 1.5 3.4 3.4 3.4 3.4-1.5 3.4-3.4zM13.1 24c-3.7-1.9-6.2-5.5-6.2-9.8s2.5-7.9 6.2-9.8"/><path d="M7.9 28C3.4 24.9.5 19.9.5 14.2.5 8.5 3.4 3.5 7.9.4m12 23.6c3.7-1.9 6.2-5.5 6.2-9.8 0-4.2-2.5-7.9-6.2-9.8"/><path d="M25.1 28c4.5-3.1 7.4-8.1 7.4-13.8 0-5.7-2.9-10.7-7.4-13.8"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 20px 20px;
@@ -544,7 +544,7 @@ div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-tra
 }
 
 div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-trackers:active,div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-trackers.selected {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 28.4"><g fill="none" stroke="#007AFF" stroke-linejoin="bevel"><path d="M19.9 14.2c0-1.9-1.5-3.4-3.4-3.4s-3.4 1.5-3.4 3.4 1.5 3.4 3.4 3.4 3.4-1.5 3.4-3.4zM13.1 24c-3.7-1.9-6.2-5.5-6.2-9.8s2.5-7.9 6.2-9.8"/><path d="M7.9 28C3.4 24.9.5 19.9.5 14.2.5 8.5 3.4 3.5 7.9.4m12 23.6c3.7-1.9 6.2-5.5 6.2-9.8 0-4.2-2.5-7.9-6.2-9.8"/><path d="M25.1 28c4.5-3.1 7.4-8.1 7.4-13.8 0-5.7-2.9-10.7-7.4-13.8"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 28.4"><g fill="none" stroke="%23007AFF" stroke-linejoin="bevel"><path d="M19.9 14.2c0-1.9-1.5-3.4-3.4-3.4s-3.4 1.5-3.4 3.4 1.5 3.4 3.4 3.4 3.4-1.5 3.4-3.4zM13.1 24c-3.7-1.9-6.2-5.5-6.2-9.8s2.5-7.9 6.2-9.8"/><path d="M7.9 28C3.4 24.9.5 19.9.5 14.2.5 8.5 3.4 3.5 7.9.4m12 23.6c3.7-1.9 6.2-5.5 6.2-9.8 0-4.2-2.5-7.9-6.2-9.8"/><path d="M25.1 28c4.5-3.1 7.4-8.1 7.4-13.8 0-5.7-2.9-10.7-7.4-13.8"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 20px 20px;
@@ -552,7 +552,7 @@ div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-tra
 }
 
 div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-files {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.2 33.6"><g fill="none" stroke="#7B8994" stroke-width="1.165"><path d="M26.3 7.4v25.7H.6V7.4h25.7z"/><path d="M6.9 7.6v-7h25.7v25.7h-6.3"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.2 33.6"><g fill="none" stroke="%237B8994" stroke-width="1.165"><path d="M26.3 7.4v25.7H.6V7.4h25.7z"/><path d="M6.9 7.6v-7h25.7v25.7h-6.3"/></g></svg>');
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 	background-position: center;
@@ -562,7 +562,7 @@ div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-fil
 }
 
 div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-files:active,div#torrent_inspector #inspector-tabs-wrapper #inspector-tabs>#inspector-tab-files.selected {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.2 33.6"><g fill="none" stroke="#007AFF" stroke-width="1.165"><path d="M26.3 7.4v25.7H.6V7.4h25.7z"/><path d="M6.9 7.6v-7h25.7v25.7h-6.3"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.2 33.6"><g fill="none" stroke="%23007AFF" stroke-width="1.165"><path d="M26.3 7.4v25.7H.6V7.4h25.7z"/><path d="M6.9 7.6v-7h25.7v25.7h-6.3"/></g></svg>');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 20px 20px;
@@ -745,7 +745,7 @@ table.peer_list .clientcol {
 tr.inspector_peer_entry div.encrypted-peer-cell {
 	width: 16px;
 	height: 16px;
-	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.5 11.8"><g fill="none" stroke="#007AFF" stroke-width=".5" stroke-linecap="square" stroke-linejoin="round"><path d="M5.25 11.663c-2.21 0-4-1.876-4-4.19 0-2.315 1.79-4.19 4-4.19s4 1.875 4 4.19c0 2.314-1.79 4.19-4 4.19z"/><path d="M2.426 4.308c0-1.75 1.265-3.17 2.824-3.17 1.56 0 2.824 1.42 2.824 3.17M5.25 8.1c-.323 0-.584-.28-.584-.628 0-.346.26-.627.584-.627.323 0 .584.28.584.627s-.26.628-.584.628z"/></g></svg>');
+	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.5 11.8"><g fill="none" stroke="%23007AFF" stroke-width=".5" stroke-linecap="square" stroke-linejoin="round"><path d="M5.25 11.663c-2.21 0-4-1.876-4-4.19 0-2.315 1.79-4.19 4-4.19s4 1.875 4 4.19c0 2.314-1.79 4.19-4 4.19z"/><path d="M2.426 4.308c0-1.75 1.265-3.17 2.824-3.17 1.56 0 2.824 1.42 2.824 3.17M5.25 8.1c-.323 0-.584-.28-.584-.628 0-.346.26-.627.584-.627.323 0 .584.28.584.627s-.26.628-.584.628z"/></g></svg>');
 	background-size: 17px 17px
 }
 
@@ -793,7 +793,7 @@ div.file-priority-radiobox>div.low:active,div.file-priority-radiobox>div.low.sel
 
 div.file-priority-radiobox>div.normal {
 	background-color: #dcdcdc;
-	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.5 2"><path fill="none" stroke="#000" stroke-width=".5" d="M.25.992l11 .016"/></svg>');
+	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.5 2"><path fill="none" stroke="%23000" stroke-width=".5" d="M.25.992l11 .016"/></svg>');
 	background-size: 15px 15px;
 	background-position: center;
 	background-repeat: no-repeat
@@ -801,7 +801,7 @@ div.file-priority-radiobox>div.normal {
 
 div.file-priority-radiobox>div.normal:active,div.file-priority-radiobox>div.normal.selected {
 	background-color: #c5e1ff;
-	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.5 2"><path fill="none" stroke="#000" stroke-width=".5" d="M.25.992l11 .016"/></svg>');
+	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.5 2"><path fill="none" stroke="%23000" stroke-width=".5" d="M.25.992l11 .016"/></svg>');
 	background-size: 15px 15px;
 	background-position: center;
 	background-repeat: no-repeat
@@ -854,14 +854,14 @@ div.torrent_footer div.main_container,div.torrent_footer ul#settings_menu {
 
 div.torrent_footer #prefs-button {
 	border: 5px;
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="none" stroke="#7B8994" stroke-width=".75" stroke-linejoin="round"><path d="M31.5 17.8v-4.4l-4-.9c-.2-.9-.5-1.8-.9-2.6L29 6.2l-3-3.1-3.7 2.2c-.8-.5-1.7-.6-2.6-.8L18.8.4h-4.4l-.9 4.1c-.9.2-1.8.5-2.6.9L7.1 2.9 4 6l2.3 3.7c-.4.8-1 1.7-1.2 2.6l-4.5.9v4.4l4.5 1c.2.9.7 1.8 1.1 2.6L4 24.8l3.1 3.1 3.6-2.3c.8.4 1.7 1.1 2.6 1.3l.9 4.6h4.4l.9-4.6c.9-.2 1.8-.7 2.6-1.1l3.6 2.2 3.1-3.1-2.2-3.7c.4-.8.6-1.7.8-2.6-.1-.1 4.1-.8 4.1-.8z"/><path d="M16.5 7.6c4.2 0 7.8 3.5 7.8 7.9s-3.5 7.9-7.8 7.9-7.7-3.6-7.7-8 3.5-7.8 7.7-7.8z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="none" stroke="%237B8994" stroke-width=".75" stroke-linejoin="round"><path d="M31.5 17.8v-4.4l-4-.9c-.2-.9-.5-1.8-.9-2.6L29 6.2l-3-3.1-3.7 2.2c-.8-.5-1.7-.6-2.6-.8L18.8.4h-4.4l-.9 4.1c-.9.2-1.8.5-2.6.9L7.1 2.9 4 6l2.3 3.7c-.4.8-1 1.7-1.2 2.6l-4.5.9v4.4l4.5 1c.2.9.7 1.8 1.1 2.6L4 24.8l3.1 3.1 3.6-2.3c.8.4 1.7 1.1 2.6 1.3l.9 4.6h4.4l.9-4.6c.9-.2 1.8-.7 2.6-1.1l3.6 2.2 3.1-3.1-2.2-3.7c.4-.8.6-1.7.8-2.6-.1-.1 4.1-.8 4.1-.8z"/><path d="M16.5 7.6c4.2 0 7.8 3.5 7.8 7.9s-3.5 7.9-7.8 7.9-7.7-3.6-7.7-8 3.5-7.8 7.7-7.8z"/></g></svg>');
 	background-size: 25px 25px;
 	background-position: center;
 	background-repeat: no-repeat
 }
 
 div.torrent_footer #prefs-button:active,div.torrent_footer #prefs-button.selected {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="none" stroke="#007AFF" stroke-width=".75" stroke-linejoin="round"><path d="M31.5 17.8v-4.4l-4-.9c-.2-.9-.5-1.8-.9-2.6L29 6.2l-3-3.1-3.7 2.2c-.8-.5-1.7-.6-2.6-.8L18.8.4h-4.4l-.9 4.1c-.9.2-1.8.5-2.6.9L7.1 2.9 4 6l2.3 3.7c-.4.8-1 1.7-1.2 2.6l-4.5.9v4.4l4.5 1c.2.9.7 1.8 1.1 2.6L4 24.8l3.1 3.1 3.6-2.3c.8.4 1.7 1.1 2.6 1.3l.9 4.6h4.4l.9-4.6c.9-.2 1.8-.7 2.6-1.1l3.6 2.2 3.1-3.1-2.2-3.7c.4-.8.6-1.7.8-2.6-.1-.1 4.1-.8 4.1-.8z"/><path d="M16.5 7.6c4.2 0 7.8 3.5 7.8 7.9s-3.5 7.9-7.8 7.9-7.7-3.6-7.7-8 3.5-7.8 7.7-7.8z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="none" stroke="%23007AFF" stroke-width=".75" stroke-linejoin="round"><path d="M31.5 17.8v-4.4l-4-.9c-.2-.9-.5-1.8-.9-2.6L29 6.2l-3-3.1-3.7 2.2c-.8-.5-1.7-.6-2.6-.8L18.8.4h-4.4l-.9 4.1c-.9.2-1.8.5-2.6.9L7.1 2.9 4 6l2.3 3.7c-.4.8-1 1.7-1.2 2.6l-4.5.9v4.4l4.5 1c.2.9.7 1.8 1.1 2.6L4 24.8l3.1 3.1 3.6-2.3c.8.4 1.7 1.1 2.6 1.3l.9 4.6h4.4l.9-4.6c.9-.2 1.8-.7 2.6-1.1l3.6 2.2 3.1-3.1-2.2-3.7c.4-.8.6-1.7.8-2.6-.1-.1 4.1-.8 4.1-.8z"/><path d="M16.5 7.6c4.2 0 7.8 3.5 7.8 7.9s-3.5 7.9-7.8 7.9-7.7-3.6-7.7-8 3.5-7.8 7.7-7.8z"/></g></svg>');
 	background-size: 25px 25px;
 	background-position: center;
 	background-repeat: no-repeat
@@ -869,18 +869,18 @@ div.torrent_footer #prefs-button:active,div.torrent_footer #prefs-button.selecte
 
 div.torrent_footer #turtle-button {
 	border: 5px;
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="#7B8994" stroke-width=".5" d="M8.4 17.1c.3-3.3 1.9-6.3 4.4-8.3s5.6-2.9 8.6-2.7c3 .3 5.7 1.6 7.6 3.8s2.7 4.9 2.4 7.4c-.2 2.5-1.6 4.9-3.4 6.5-1.9 1.6-4.4 2.3-6.7 2.1-2.3-.2-4.5-1.3-5.9-2.9s-2-3.8-1.9-5.7c.2-2 1.2-3.8 2.6-5 1.5-1.3 3.4-1.7 5.2-1.6 1.8.1 3.5 1 4.6 2.2s1.6 2.9 1.5 4.5c-.1 1.6-1 3-2 3.9-1.2 1-2.6 1.4-4.1 1.3-1.5-.1-2.7-.8-3.6-1.7-.9-.9-1.3-2.2-1.2-3.5.1-1.2.7-2.2 1.6-3 .9-.7 2-1.1 3.2-1 1.1.1 2 .6 2.8 1.4.7.8 1 1.7.9 2.7m-11.4-1.1c-6.2 4-8.3-4.8-13.1.8"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="%237B8994" stroke-width=".5" d="M8.4 17.1c.3-3.3 1.9-6.3 4.4-8.3s5.6-2.9 8.6-2.7c3 .3 5.7 1.6 7.6 3.8s2.7 4.9 2.4 7.4c-.2 2.5-1.6 4.9-3.4 6.5-1.9 1.6-4.4 2.3-6.7 2.1-2.3-.2-4.5-1.3-5.9-2.9s-2-3.8-1.9-5.7c.2-2 1.2-3.8 2.6-5 1.5-1.3 3.4-1.7 5.2-1.6 1.8.1 3.5 1 4.6 2.2s1.6 2.9 1.5 4.5c-.1 1.6-1 3-2 3.9-1.2 1-2.6 1.4-4.1 1.3-1.5-.1-2.7-.8-3.6-1.7-.9-.9-1.3-2.2-1.2-3.5.1-1.2.7-2.2 1.6-3 .9-.7 2-1.1 3.2-1 1.1.1 2 .6 2.8 1.4.7.8 1 1.7.9 2.7m-11.4-1.1c-6.2 4-8.3-4.8-13.1.8"/></svg>');
 	background-repeat: no-repeat
 }
 
 div.torrent_footer #turtle-button:active,div.torrent_footer #turtle-button.selected {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="#007AFF" stroke-width=".5" d="M8.4 17.1c.3-3.3 1.9-6.3 4.4-8.3s5.6-2.9 8.6-2.7c3 .3 5.7 1.6 7.6 3.8s2.7 4.9 2.4 7.4c-.2 2.5-1.6 4.9-3.4 6.5-1.9 1.6-4.4 2.3-6.7 2.1-2.3-.2-4.5-1.3-5.9-2.9s-2-3.8-1.9-5.7c.2-2 1.2-3.8 2.6-5 1.5-1.3 3.4-1.7 5.2-1.6 1.8.1 3.5 1 4.6 2.2s1.6 2.9 1.5 4.5c-.1 1.6-1 3-2 3.9-1.2 1-2.6 1.4-4.1 1.3-1.5-.1-2.7-.8-3.6-1.7-.9-.9-1.3-2.2-1.2-3.5.1-1.2.7-2.2 1.6-3 .9-.7 2-1.1 3.2-1 1.1.1 2 .6 2.8 1.4.7.8 1 1.7.9 2.7m-11.4-1.1c-6.2 4-8.3-4.8-13.1.8"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="none" stroke="%23007AFF" stroke-width=".5" d="M8.4 17.1c.3-3.3 1.9-6.3 4.4-8.3s5.6-2.9 8.6-2.7c3 .3 5.7 1.6 7.6 3.8s2.7 4.9 2.4 7.4c-.2 2.5-1.6 4.9-3.4 6.5-1.9 1.6-4.4 2.3-6.7 2.1-2.3-.2-4.5-1.3-5.9-2.9s-2-3.8-1.9-5.7c.2-2 1.2-3.8 2.6-5 1.5-1.3 3.4-1.7 5.2-1.6 1.8.1 3.5 1 4.6 2.2s1.6 2.9 1.5 4.5c-.1 1.6-1 3-2 3.9-1.2 1-2.6 1.4-4.1 1.3-1.5-.1-2.7-.8-3.6-1.7-.9-.9-1.3-2.2-1.2-3.5.1-1.2.7-2.2 1.6-3 .9-.7 2-1.1 3.2-1 1.1.1 2 .6 2.8 1.4.7.8 1 1.7.9 2.7m-11.4-1.1c-6.2 4-8.3-4.8-13.1.8"/></svg>');
 	background-repeat: no-repeat
 }
 
 div.torrent_footer #rename-button {
 	border: 5px;
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="none" stroke="#7B8994" stroke-width=".75" stroke-miterlimit="10"><path d="M20.2.5H4.7C2.4.5.5 2.4.5 4.7v22.5c0 2.2 1.9 4.2 4.2 4.2h22.5c2.3 0 4.2-1.9 4.2-4.2V11.8"/><path d="M8.2 23.7l6-1.1L30.3 6.5c1.4-1.4 1.4-3.6 0-4.9-1.4-1.4-3.6-1.4-4.9 0L9.3 17.7l-1.1 6z"/><path d="M9.3 17.7l4 .8.9 4.2M24.9 2.1l5 4.9"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="none" stroke="%237B8994" stroke-width=".75" stroke-miterlimit="10"><path d="M20.2.5H4.7C2.4.5.5 2.4.5 4.7v22.5c0 2.2 1.9 4.2 4.2 4.2h22.5c2.3 0 4.2-1.9 4.2-4.2V11.8"/><path d="M8.2 23.7l6-1.1L30.3 6.5c1.4-1.4 1.4-3.6 0-4.9-1.4-1.4-3.6-1.4-4.9 0L9.3 17.7l-1.1 6z"/><path d="M9.3 17.7l4 .8.9 4.2M24.9 2.1l5 4.9"/></g></svg>');
 	background-size: 23px 23px;
 	background-position: center;
 	background-repeat: no-repeat
@@ -888,13 +888,13 @@ div.torrent_footer #rename-button {
 
 div.torrent_footer #compact-button {
 	border: 5px;
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#7B8994"><path d="M2.13 7.5h1.267v1.267H2.13z"/><path d="M3.397 7.5v1.267H2.13V7.5h1.267zm-.316.317h-.63v.633h.637v-.633zm-.95 7.845H3.4v1.266H2.13z"/><path d="M3.397 15.662v1.266H2.13v-1.266h1.267zm-.316.317h-.63v.63h.637v-.636zm-.95 7.25H3.4v1.27H2.13z"/><path d="M3.397 23.233V24.5H2.13v-1.267h1.267zm-.316.317h-.63v.633h.637v-.633z"/></g><path fill="#7B8994" d="M5.838 8.134h24.03"/><path fill="none" stroke="#7B8994" stroke-width=".5" d="M5.838 8.134h24.03"/><path fill="#7B8994" d="M5.838 16.295h24.03"/><path fill="none" stroke="#7B8994" stroke-width=".5" d="M5.838 16.295h24.03"/><path fill="#7B8994" d="M5.838 23.866h24.03"/><path fill="none" stroke="#7B8994" stroke-width=".5" d="M5.838 23.866h24.03"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="%237B8994"><path d="M2.13 7.5h1.267v1.267H2.13z"/><path d="M3.397 7.5v1.267H2.13V7.5h1.267zm-.316.317h-.63v.633h.637v-.633zm-.95 7.845H3.4v1.266H2.13z"/><path d="M3.397 15.662v1.266H2.13v-1.266h1.267zm-.316.317h-.63v.63h.637v-.636zm-.95 7.25H3.4v1.27H2.13z"/><path d="M3.397 23.233V24.5H2.13v-1.267h1.267zm-.316.317h-.63v.633h.637v-.633z"/></g><path fill="%237B8994" d="M5.838 8.134h24.03"/><path fill="none" stroke="%237B8994" stroke-width=".5" d="M5.838 8.134h24.03"/><path fill="%237B8994" d="M5.838 16.295h24.03"/><path fill="none" stroke="%237B8994" stroke-width=".5" d="M5.838 16.295h24.03"/><path fill="%237B8994" d="M5.838 23.866h24.03"/><path fill="none" stroke="%237B8994" stroke-width=".5" d="M5.838 23.866h24.03"/></svg>');
 	background-repeat: no-repeat;
 	background-position: center
 }
 
 div.torrent_footer #compact-button:active,div.torrent_footer #compact-button.selected {
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#007AFF"><path d="M2.13 7.5h1.267v1.267H2.13z"/><path d="M3.397 7.5v1.267H2.13V7.5h1.267zm-.316.317h-.63v.633h.637v-.633zm-.95 7.845H3.4v1.266H2.13z"/><path d="M3.397 15.662v1.266H2.13v-1.266h1.267zm-.316.317h-.63v.63h.637v-.636zm-.95 7.25H3.4v1.27H2.13z"/><path d="M3.397 23.233V24.5H2.13v-1.267h1.267zm-.316.317h-.63v.633h.637v-.633z"/></g><path fill="#007AFF" d="M5.838 8.134h24.03"/><path fill="none" stroke="#007AFF" stroke-width=".5" d="M5.838 8.134h24.03"/><path fill="#007AFF" d="M5.838 16.295h24.03"/><path fill="none" stroke="#007AFF" stroke-width=".5" d="M5.838 16.295h24.03"/><path fill="#007AFF" d="M5.838 23.866h24.03"/><path fill="none" stroke="#007AFF" stroke-width=".5" d="M5.838 23.866h24.03"/></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="%23007AFF"><path d="M2.13 7.5h1.267v1.267H2.13z"/><path d="M3.397 7.5v1.267H2.13V7.5h1.267zm-.316.317h-.63v.633h.637v-.633zm-.95 7.845H3.4v1.266H2.13z"/><path d="M3.397 15.662v1.266H2.13v-1.266h1.267zm-.316.317h-.63v.63h.637v-.636zm-.95 7.25H3.4v1.27H2.13z"/><path d="M3.397 23.233V24.5H2.13v-1.267h1.267zm-.316.317h-.63v.633h.637v-.633z"/></g><path fill="%23007AFF" d="M5.838 8.134h24.03"/><path fill="none" stroke="%23007AFF" stroke-width=".5" d="M5.838 8.134h24.03"/><path fill="%23007AFF" d="M5.838 16.295h24.03"/><path fill="none" stroke="%23007AFF" stroke-width=".5" d="M5.838 16.295h24.03"/><path fill="%23007AFF" d="M5.838 23.866h24.03"/><path fill="none" stroke="%23007AFF" stroke-width=".5" d="M5.838 23.866h24.03"/></svg>');
 	background-repeat: no-repeat;
 	background-position: center
 }
@@ -902,7 +902,7 @@ div.torrent_footer #compact-button:active,div.torrent_footer #compact-button.sel
 div.torrent_footer #verify-button {
 	border: 5px;
 	background-color: transparent;
-	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="none" stroke="#7B8994" stroke-width=".5"><path d="M15.9 23.9C7.4 23.9.5 16 .5 16S7.4 8.1 16 8.1s15.5 7.8 15.5 7.8-7 8-15.6 8z"/><path d="M15.9 20.2c-2.2 0-4.2-1.8-4.2-4.2s1.8-4.2 4.2-4.2 4.2 1.9 4.2 4.2-1.9 4.2-4.2 4.2z"/></g></svg>');
+	background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="none" stroke="%237B8994" stroke-width=".5"><path d="M15.9 23.9C7.4 23.9.5 16 .5 16S7.4 8.1 16 8.1s15.5 7.8 15.5 7.8-7 8-15.6 8z"/><path d="M15.9 20.2c-2.2 0-4.2-1.8-4.2-4.2s1.8-4.2 4.2-4.2 4.2 1.9 4.2 4.2-1.9 4.2-4.2 4.2z"/></g></svg>');
 	background-repeat: no-repeat;
 	background-position: center
 }
@@ -914,7 +914,7 @@ div.torrent_footer #torrent-button select {
 	background-size: 32px 32px;
 	border: 0;
 	background-size: cover;
-	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#7B8994"><path d="M16 2.91l16 8.11-16 8.112-16-8.11 16-8.11zm0 .562l-14.894 7.55L16 18.57l14.894-7.55L16 3.47z"/><path d="M16 8.3l16 8.11-16 8.11-16-8.11L16 8.3zm0 .56L1.106 16.41 16 23.96l14.894-7.55L16 8.86z"/><path d="M16 12.868l16 8.11-16 8.11-16-8.11 16-8.11zm0 .56L1.106 20.98 16 28.528l14.894-7.55L16 13.428z"/></g></svg>')
+	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="%237B8994"><path d="M16 2.91l16 8.11-16 8.112-16-8.11 16-8.11zm0 .562l-14.894 7.55L16 18.57l14.894-7.55L16 3.47z"/><path d="M16 8.3l16 8.11-16 8.11-16-8.11L16 8.3zm0 .56L1.106 16.41 16 23.96l14.894-7.55L16 8.86z"/><path d="M16 12.868l16 8.11-16 8.11-16-8.11 16-8.11zm0 .56L1.106 20.98 16 28.528l14.894-7.55L16 13.428z"/></g></svg>')
 }
 
 div#dialog_message.dialog_message {
