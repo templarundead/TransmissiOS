@@ -1,0 +1,8 @@
+jpeg:
+  quality: 100
+png:
+  quality: 100
+webp:
+  quality: 100
+ignorePaths:
+  - "node_modules/**"
